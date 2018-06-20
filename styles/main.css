@@ -24,6 +24,7 @@ nav  {
 	height: 100%;
 	padding: 0px 0px 0px 0px;
 }
+
 .nav-button {
 	margin: 150px 0px 300px 0px;
 }
@@ -72,6 +73,16 @@ article {
     line-height: 30px;
     position: relative;
     margin: 0 0 10px 0;
+}
+.ru-ver {
+	top: -140px;
+	width: 30px;
+	margin: 0px 0px 0px 40px ;
+}
+.en-ver {
+	top: -140px;
+	width: 30px;
+	margin: 0px 0px 0px 40px ;
 }
 
 .button:hover {
